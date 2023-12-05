@@ -1,3 +1,3 @@
 # Asksensors
 
-# the measurements are dispayled on Asksensors.com
+# the measurements are displayed on Asksensors.com
